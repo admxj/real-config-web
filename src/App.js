@@ -1,7 +1,7 @@
 import React from 'react';
 import User from './components/user/User'
 import {Layout, Menu} from "antd";
-import 'antd/dist/antd.css';
+import 'antd/dist/antd.less';
 
 const {Header} = Layout;
 
